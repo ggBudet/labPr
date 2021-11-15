@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:lab"
         mc:Ignorable="d"
-        Title="Авторизация" Height="292" Width="384">
+        Title="Авторизация" Height="292" Width="384" ResizeMode="CanMinimize">
     <Grid HorizontalAlignment="Center" Width="384" Margin="0,0,0,0">
         <Label Content="Логин" HorizontalAlignment="Left" Margin="58,65,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS"/>
         <Label Content="Пароль" HorizontalAlignment="Left" Margin="58,99,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS"/>
