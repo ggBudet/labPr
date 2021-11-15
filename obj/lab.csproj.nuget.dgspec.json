@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\lab\\lab.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\lab\\lab.csproj": {}
   },
   "projects": {
-    "C:\\repos\\lab\\lab.csproj": {
+    "C:\\Users\\pc\\source\\repos\\lab\\lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\lab\\lab.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\lab\\lab.csproj",
         "projectName": "lab",
-        "projectPath": "C:\\repos\\lab\\lab.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\lab\\lab.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\lab\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

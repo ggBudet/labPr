@@ -1,5 +1,5 @@
 ﻿lab
-1.0.0.0
+
 
 winexe
 C#
@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\pc\source\repos\lab\App.xaml
-11407045341
+2-872857622
 
-5-893981828
+41826278257
 192-1533232326
-MainWindow.xaml;
+Authorization.xaml;MainWindow.xaml;
 
 False
 
